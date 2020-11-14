@@ -9,6 +9,7 @@ gem "jekyll"
 # https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/installation.md
 gem 'jekyll-seo-tag'
 gem 'jekyll-feed'
+gem 'github-pages'
 
 #Please add the following to your Gemfile to avoid polling for changes:
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
