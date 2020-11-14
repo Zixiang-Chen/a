@@ -10,4 +10,4 @@ copyright: Zixiang Chen © 2020
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
- - jekyll-pdf-embed
+# - jekyll-pdf-embed
