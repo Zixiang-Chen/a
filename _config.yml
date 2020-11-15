@@ -5,9 +5,12 @@ title: Zixiang Chen
 author:
   name: Zixiang Chen
   email: zixiangchen@foxmail.com
+  motto: To be pragmatic with passion
 copyright: Zixiang Chen © 2020
 
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
+google_analytics: G-6HJN5QH889
+
+#plugins:
+# - jekyll-feed
+# - jekyll-seo-tag
 # - jekyll-pdf-embed

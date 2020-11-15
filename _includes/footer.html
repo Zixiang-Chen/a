@@ -1,10 +1,8 @@
 <footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
   <div class="wrapper">
 
+    {% comment %}
     <div class="footer-col-wrapper">
-      {% comment %}
       <div class="footer-col">
       {%- if site.author %}
         <ul class="contact-list">
@@ -26,9 +24,20 @@
     </div>
     {% endcomment %}
 
-    <div class="footer-col">
-        <p>{{ site.copyright | escape }}</p>
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+      </div>
+      <div class="footer-col">
+      </div>
+      {%- if site.author %}
+      <div class="footer-col">
+          {% if site.author.name and site.copyright -%}
+          <p align="right">{{ site.author.motto | escape }} <br/> {{ site.copyright | escape }}</p>
+          {%- endif %}
+      </div>
+      {%- endif %}
     </div>
+    
   </div>
 
 </footer>

@@ -123,7 +123,7 @@
  */
 .site-footer {
   border-top: 1px solid $border-color-01;
-  padding: $spacing-unit 0;
+  padding: $spacing-unit/3 0 0 0;
 }
 
 .footer-heading {
@@ -143,12 +143,12 @@
 
 .footer-col-wrapper,
 .social-links {
-  @include relative-font-size(0.9375);
+  @include relative-font-size(0.825);
   color: $brand-color;
 }
 
 .footer-col {
-  margin-bottom: $spacing-unit / 2;
+//  margin-bottom: $spacing-unit / 2;
 }
 
 .footer-col-1,
