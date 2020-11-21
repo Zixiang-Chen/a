@@ -10,6 +10,13 @@ copyright: Zixiang Chen © 2020
 
 google_analytics: G-7W4QDBG3WD
 
+include:
+  - _pages
+header_pages:
+  - _pages/cv.md
+  - _pages/publications.md
+  - _pages/contact.md
+
 #plugins:
 # - jekyll-feed
 # - jekyll-seo-tag

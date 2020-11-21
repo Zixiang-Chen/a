@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /CV/
+permalink: /cv/
 ---
 
 {% assign cvPath = "/files/CV_Macro.pdf" | relative_url %}
