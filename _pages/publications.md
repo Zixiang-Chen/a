@@ -4,7 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-<br/>
 
 + `Matrix Factorization with Heterogeneous Multiclass Preference Context`
 
