@@ -6,6 +6,22 @@ author:
 tags: profile
 ---
 
+
+
++ Overall 6.5
+    + Speaking: 6.0;
+    + Listening:6.0;
+    + Reading: 7.5;
+    + Writing: 6.0.
+
+the pdf's coming soon.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 + Overall 6.0
     + Speaking: 4.5;
     + Listening: 6.0;
