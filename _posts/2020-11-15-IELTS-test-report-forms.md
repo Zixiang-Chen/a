@@ -14,11 +14,7 @@ tags: profile
     + Reading: 7.5;
     + Writing: 6.0.
 
-the pdf's coming soon.
-
-&nbsp;
-
-&nbsp;
+<iframe src="{{ "/files/IELTS Test Report Form_20201129_mosaic.pdf" | relative_url  }}" width="100%" height="800em"></iframe>
 
 &nbsp;
 
@@ -29,10 +25,6 @@ the pdf's coming soon.
     + Writing: 6.0.
 
 <iframe src="{{ "/files/IELTS Test Report Form_20201108_mosaic.pdf" | relative_url  }}" width="100%" height="800em"></iframe>
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 

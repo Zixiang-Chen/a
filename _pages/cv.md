@@ -16,6 +16,6 @@ The supportive materials are listed:
 
 + <a href="{{ "/publications/" | relative_url }}" target="_blank">publications</a>;
 + <a href="{{ site.baseurl }}{% post_url 2020-11-15-transcripts %}" target="_blank">transcripts</a>;
-+ <a href="{{ site.baseurl }}{% post_url 2020-11-15-IELTS-test-report-forms %}" target="_blank">IELTS test report forms (current band at 6.5)</a>;
++ <a href="{{ site.baseurl }}{% post_url 2020-11-15-IELTS-test-report-forms %}" target="_blank">IELTS test report forms (overall band score 6.5 with 6.0+ in all skills)</a>;
 + 
 
