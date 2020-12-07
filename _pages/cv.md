@@ -10,7 +10,7 @@ permalink: /cv/
 
 
 
-Last Update Date: 2020/12/03. Or you would like to <a href="{{ cvPath }}" target="_blank">download it</a>.
+Last Update Date: 2020/12/07. Or you would like to <a href="{{ cvPath }}" target="_blank">download it</a>.
 
 The supportive materials are listed:
 
